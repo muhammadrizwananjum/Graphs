@@ -10,6 +10,7 @@
 ## Requirements
 - iOS 8.0+
 - XCode 7.3+
+- My Tools
 
 ## Installation
 ### [CocoaPods](https://cocoapods.org)
